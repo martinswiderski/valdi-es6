@@ -11,6 +11,7 @@
     "url": "git+https://github.com/martinswiderski/valdi-es6.git"
   },
   "keywords": [
+    "es6",
     "validator",
     "input",
     "validation",
